@@ -36,5 +36,6 @@
     data-visualization    python    machine-learning    plotly-dash    folium   sql
 
 ## OTHERS
+> * [Pluralsight](https://app.pluralsight.com/profile/igor-shirokov)
 > * [kaggle](https://www.kaggle.com/igorshirokov/competitions?tab=active)
 > * [badges](https://www.credly.com/users/igor-shirokov)
