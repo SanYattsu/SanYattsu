@@ -7,7 +7,7 @@
     keras   numpy   seaborn   dash    statistics    tensorflow
 
 ## INTRO STATEMENT
-> It was a long thorny path to data science for me. My first language was Fortran, then C#. I used them at university, but it wasn't real IT. Then I tried python and ML, and found out that the data science combines all things I like to do. Now, I have aim to become professional in this in this area.
+> It was a long thorny path to data science for me. My first language was Fortran, then C#. I used them at university, but it wasn't real IT. Then I tried python and ML, and found out that the data science combines all things I like to do. Now, I have aim to become professional in this area.
 
 ## EXPERIENCE
 > Engineer → Researcher → Associate professor
@@ -36,6 +36,6 @@
     data-visualization    python    machine-learning    plotly-dash    folium   sql
 
 ## OTHERS
-> * [Pluralsight](https://app.pluralsight.com/profile/igor-shirokov)
+> * [skill IQs](https://app.pluralsight.com/profile/igor-shirokov)
 > * [kaggle](https://www.kaggle.com/igorshirokov/competitions?tab=active)
 > * [badges](https://www.credly.com/users/igor-shirokov)
