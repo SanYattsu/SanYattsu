@@ -11,7 +11,7 @@
 
 ## EXPERIENCE
 > Engineer → Researcher → Associate professor
->> Moscow Aviation Institute
+>> Moscow Aviation Institute, 
 >> Jun 2011 → Current
 >> * I specialize in complex tasks, the solution of which requires a creative, structured and scientific approach.
 >> * I perform analytical analysis of data obtained numerically or experimentally.
@@ -28,12 +28,12 @@
 
 ## CERTIFICATIONS
 
-> * [Advanced Data Science with IBM Specialization](https://coursera.org/share/786097aa73e892c6bef06d12b74059db)
+> * [Advanced Data Science with IBM by IBM on Coursera. Certificate earned at February 8, 2022](https://coursera.org/share/786097aa73e892c6bef06d12b74059db)
     
     machine-learning    signal-processing    deep-learning    apache-spark    data-science
-> * [IBM Data Science](https://coursera.org/share/37873ff936bce6ddadef2d4f6b36bdcb)
+> * [IBM Data Science by IBM on Coursera. Certificate earned at December 31, 2021](https://coursera.org/share/37873ff936bce6ddadef2d4f6b36bdcb)
     
-    data-visualization    python    machine-learning    plotly-dash    folium   sql
+    data-science    data-visualization    python    machine-learning    plotly-dash    sql
 
 ## OTHERS
 > * [skill IQs](https://app.pluralsight.com/profile/igor-shirokov)
