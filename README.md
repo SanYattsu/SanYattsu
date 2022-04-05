@@ -39,9 +39,13 @@
     
     data-science    data-visualization    python    machine-learning    plotly-dash    sql
     
-> * [Basic Statistics on Stepik earned at March 24, 2022](https://stepik.org/cert/1447548)
+> * [Fundamentals of statistics on Stepik earned at March 24, 2022](https://stepik.org/cert/1447548)
     
     dispersion-analysis   regression   cluster-analysis   hypothesis-testing   correlation
+
+> * [Introduction to Linux on Stepik earned at April 04, 2022](https://stepik.org/cert/1462921)
+    
+    bash    linux-commands   vim    permissions   ownership    wsl2   ssh-basics    ubuntu
 
 ## OTHERS
 > * [skill IQs](https://app.pluralsight.com/profile/igor-shirokov)
