@@ -1,11 +1,11 @@
 ## IGOR SHIROKOV
-> Data Scientist,  noWhere.io
+> Data Scientist
 
 ## TECHNOLOGIES
     data-science    deep-learning   machine-learning    python
     data-visualization  matplotlib plotly  scikit-learn  linux
-    keras   numpy   seaborn   dash    statistics    tensorflow
-    requests  web-scraping  pyspark algorithms data-structures
+    keras   statistics    tensorflow    numpy   seaborn   dash
+    bootstrap pyspark data-structures web-scraping  algorithms 
 
 ## INTRO STATEMENT
 > It was a long thorny path to data science for me. My first language was Fortran, then C#. I used them at university, but it wasn't real IT. Then I tried python and ML, and found out that the data science combines all things I like to do. Now, I have aim to become professional in this area.
@@ -48,6 +48,7 @@
     bash    linux-commands   vim    permissions   ownership    wsl2   ssh-basics    ubuntu
 
 ## OTHERS
+> * [hacker rank](https://www.hackerrank.com/Igor_Shirokov)
 > * [skill IQs](https://app.pluralsight.com/profile/igor-shirokov)
 > * [kaggle](https://www.kaggle.com/igorshirokov/competitions?tab=active)
 > * [badges](https://www.credly.com/users/igor-shirokov)
