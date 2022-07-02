@@ -2,10 +2,11 @@
 > Data Scientist
 
 ## TECHNOLOGIES
-    data-science    deep-learning   machine-learning    python
-    data-visualization  matplotlib plotly  scikit-learn  linux
-    keras   statistics    tensorflow    numpy   seaborn   dash
-    bootstrap pyspark data-structures web-scraping  algorithms 
+
+    Data-Science Data-Analysis Python Deep-Learning
+    Linux PySpark Machine-Learning PostgreSQL PyTorch
+    Neural-Networks Bootstrap CatBoost LightGBM Keras
+    Mathematical-Analysis Statistical-Analysis SQL ML
 
 ## INTRO STATEMENT
 > It was a long thorny path to data science for me. My first language was Fortran, then C#. I used them at university, but it wasn't real IT. Then I tried python and ML, and found out that the data science combines all things I like to do. Now, I have aim to become professional in this area.
