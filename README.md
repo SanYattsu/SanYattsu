@@ -12,11 +12,22 @@
 
 ## INTRO STATEMENT
 
-> It was a long thorny path to DS/DE for me. My first language was Fortran, then C#. I used them at university, but it wasn't real IT. Then I tried python and ML, and found out that the DS/DE combines all things I like to do. Now, I have aim to become professional in this area.
-> 
-> I had started learning DS/DE in 27.10.2021 from different sources: Yandex.Practicum, Coursera, Pluralsight, HackerRank, Stepik, YouTube, ODS and etc.
+> I love IT from whole life, even read journals like Hacker in 00’s when a real PC was just a dream. In university my most favorite activities were coding in Fortran, 3D modeling in SOLIDWORKS and doing any type of course work where I can use Mathcad (it resembles me Jupyter Note now).
+
+> I started working in the university department from the 3rd year and that defined my career trajectory for 12 years front. But I wanted much more, and after I took data courses, starting from Data Science to Data Engineering I finally know that working with information, data bases, finding business insights and analytic is a field where I want to be and where I want to realize myself.
+
+> Currently, I working in data-driven company – Mediascope.
 
 ## EXPERIENCE
+
+> Site Reliability Engineer
+>> [Mediascope](https://mediascope.net/),
+>> Jul 2023 → Current
+>> * Maintenance of streaming services (Kafka) of the company.
+>> * Improving performance and reliability.
+>> * Monitoring the operation of the system (Grafana).
+>> * Ensuring data security and Privacy.
+>> * Interaction with related departments of the company: with business, developers, system administrators and software developers.
 
 > Data Engineer
 >> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
@@ -30,7 +41,7 @@
 
 > WEB Developer
 >> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
->> Nov 2022 → Current
+>> Nov 2022 → Jul 2023
 >> * Created a site on Django for R&D. Implemented all the logic from the database to dashboards, uploading xml files to the database through site forms, as well as uploading reports designed according to the template with filtering by specified periods from PostgreSQL.
 >> * Designed a web service for a commercial dispatch center to obtain operational data on wind turbines.
 >> * Build dashboards using Plotly and Chart.js.
@@ -38,7 +49,7 @@
 
 > Postgraduate → Assistant → Associate professor
 >> [Moscow Aviation Institute](https://en.mai.ru/), 
->> Jun 2011 → Current
+>> Jun 2011 → Jul 2023
 >> * Management of masters in the joint Russian-Chinese program.
 >> * Reading lectures and conducting practical classes on the course "Reliability" and "Computer-aided design systems" in Russian and English.
 
