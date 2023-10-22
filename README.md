@@ -1,6 +1,6 @@
 ## IGOR SHIROKOV
 
-> Data Engineer / Data Scientist
+> Data Engineer / SRE engineer
 
 ## TECHNOLOGIES
 
@@ -29,7 +29,7 @@
 >> * Ensuring data security and Privacy.
 >> * Interaction with related departments of the company: with business, developers, system administrators and software developers.
 
-> Data Engineer
+> Data Engineer (part-time job)
 >> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
 >> Nov 2022 → Current
 >> * Build, test, and maintain database pipeline architectures.
@@ -39,6 +39,12 @@
 >> * Together with a team of data scientists and analysts, I conducted data quality analysis and pre-processing.
 >> * Set up a pipeline for the commercial dispatch center: data acquisition, cleaning and enrichment, logic calculation, generation of the final JSON for the web service.
 
+> Associate professor (part-time job)
+>> [Moscow Aviation Institute](https://en.mai.ru/), 
+>> Jun 2011 → Current
+>> * Management of masters in the joint Russian-Chinese program.
+>> * Reading lectures and conducting practical classes on the course "Reliability" and "Computer-aided design systems" in Russian and English.
+
 > WEB Developer
 >> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
 >> Nov 2022 → Jul 2023
@@ -47,13 +53,7 @@
 >> * Build dashboards using Plotly and Chart.js.
 >> * Developed the graphic component of UX/UI projects.
 
-> Postgraduate → Assistant → Associate professor
->> [Moscow Aviation Institute](https://en.mai.ru/), 
->> Jun 2011 → Jul 2023
->> * Management of masters in the joint Russian-Chinese program.
->> * Reading lectures and conducting practical classes on the course "Reliability" and "Computer-aided design systems" in Russian and English.
-
-> Engineer → Researcher → Analyst | Responsible Executor
+> Analyst | Responsible Executor
 >> [Moscow Aviation Institute](https://en.mai.ru/),
 >> Mar 2016 → Nov 2022
 >> * Cost planning by stages and types of work.
@@ -73,11 +73,19 @@
 
 ## CERTIFICATIONS
 
-> * [Certificate of Completion of the Data Engineer Professional Training Course. Certificate earned at May 26, 2023](https://1drv.ms/b/s!Ag_zGeXVuGqTkaAy_u2MtwO6WEmAbQ?e=aagXYZ)
+> * [Building a corporate analytical platform. Certificate earned at Oct 22, 2023](https://disk.yandex.ru/i/vM50Gb0RBsBV9w)
+    
+    devops    mysql    kafka    debezium    docker    cloud-tech    clickhouse    datalens
+
+> * [Infrastructure deployment using the GitOps model. Certificate earned at Oct 22, 2023](https://disk.yandex.ru/i/bmnQ93UF92eovQ)
+    
+    devops    ci-cd    kubernetes    ingress     helm     argocd     bash     gilab-runner
+
+> * [Certificate of Completion of the Data Engineer Professional Training Course. Certificate earned at May 26, 2023](https://disk.yandex.ru/i/xscI6hf5QhWj3g)
     
     dwh    data-lake    hdfs    postgresql    airflow     clickhouse     pyspark     kafka
 
-> * [Certificate of Completion of the Data Scientist Professional Training Course. Certificate earned at October 11, 2022](https://1drv.ms/b/s!Ag_zGeXVuGqTkO96fFz94IcnavG5mg?e=jOvWUn)
+> * [Certificate of Completion of the Data Scientist Professional Training Course. Certificate earned at October 11, 2022](https://disk.yandex.ru/i/U9dBo55xGPU1Rw)
     
     data-science    machine-learning    deep-learning      sql     computer-vision     nlp
 
