@@ -1,6 +1,6 @@
 ## IGOR SHIROKOV
 
-> Data Engineer / SRE engineer
+> SRE / DS / DE / MLOps
 
 ## TECHNOLOGIES
 
@@ -29,21 +29,21 @@
 >> * Ensuring data security and Privacy.
 >> * Interaction with related departments of the company: with business, developers, system administrators and software developers.
 
+> Associate professor (part-time job)
+>> [Moscow Aviation Institute](https://en.mai.ru/), 
+>> Jun 2011 → Current
+>> * Management of masters in the joint Russian-Chinese program.
+>> * Reading lectures and conducting practical classes on the course "Reliability" and "Computer-aided design systems" in Russian and English.
+
 > Data Engineer (part-time job)
 >> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
->> Nov 2022 → Current
+>> Nov 2022 → Dec 2023
 >> * Build, test, and maintain database pipeline architectures.
 >> * Migrated an existing database from MSSQL to PostgreSQL. Updated and supplemented scripts for loading and processing data (AirFlow, CRON).
 >> * Prepare data for predictive and prescriptive modeling.
 >> * Wrote procedures and triggers in PostgreSQL.
 >> * Together with a team of data scientists and analysts, I conducted data quality analysis and pre-processing.
 >> * Set up a pipeline for the commercial dispatch center: data acquisition, cleaning and enrichment, logic calculation, generation of the final JSON for the web service.
-
-> Associate professor (part-time job)
->> [Moscow Aviation Institute](https://en.mai.ru/), 
->> Jun 2011 → Current
->> * Management of masters in the joint Russian-Chinese program.
->> * Reading lectures and conducting practical classes on the course "Reliability" and "Computer-aided design systems" in Russian and English.
 
 > WEB Developer
 >> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
@@ -72,6 +72,10 @@
 >> * Rocket engines
 
 ## CERTIFICATIONS
+
+> * [Certificate of Completion of the DevOps for Development and Operations Professional Training Course. Certificate earned at May 7, 2024](https://disk.yandex.ru/i/eQzNuePG6qFLqQ)
+    
+    kubernetes  terraform  ansible  docker  argocd  cicd  observability  system-monitoring
 
 > * [Building a corporate analytical platform. Certificate earned at Oct 22, 2023](https://disk.yandex.ru/i/vM50Gb0RBsBV9w)
     
