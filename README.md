@@ -1,8 +1,10 @@
 ## IGOR SHIROKOV
 
-> SRE / DS / DE / MLOps
+> SRE / DS / DE / DevOps
 
 ## TECHNOLOGIES
+
+    DevOps  Terraform  Kubernetes  Ansible  Docker  ArgoCD  GitLab  CICD  Prometheus  Grafana  Loki  Jenkins  IaC  Nginx
 
     Data-Engineering Airflow Kafka Python YandexCloud DWH NoSQL MongoDB HDFS Data-lake Spark-Streaming CatBoost Chart.js
     
@@ -114,3 +116,4 @@
 > * [skill IQs](https://app.pluralsight.com/profile/igor-shirokov)
 > * [kaggle](https://www.kaggle.com/igorshirokov/competitions?tab=active)
 > * [badges](https://www.credly.com/users/igor-shirokov)
+> * [tarot world bot](https://t.me/tarot_world_bot)
