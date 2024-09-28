@@ -16,15 +16,24 @@
 
 > I love IT from whole life, even read journals like Hacker in 00’s when a real PC was just a dream. In university my most favorite activities were coding in Fortran, 3D modeling in SOLIDWORKS and doing any type of course work where I can use Mathcad (it resembles me Jupyter Note now).
 
-> I started working in the university department from the 3rd year and that defined my career trajectory for 12 years front. But I wanted much more, and after I took data courses, starting from Data Science to Data Engineering I finally know that working with information, data bases, finding business insights and analytic is a field where I want to be and where I want to realize myself.
+> I started working in the university department from the 3rd year and that defined my career trajectory for 12 years front. But I wanted much more, and after I took data courses, starting from Data Science to Data Engineering I finally know that working with information, data, finding business insights and analytic is a field where I want to be and where I want to realize myself.
 
 > Currently, I working in data-driven company – Mediascope.
 
 ## EXPERIENCE
 
+> DevOps Engineer
+>> [Mediascope](https://mediascope.net/),
+>> Jul 2024 → Current
+>> * Evolve an internal development platform based on Kubernetes clusters.
+>> * Bring DevOps practices and the corresponding tooling around them to related teams.
+>> * Develop automation that simplifies the team's work.
+>> * Expand a common development infrastructure from on-demand dev environments to production.
+>> * Deploy and update Kubernetes components, including CloudNativePG, MongoDB, RabbitMQ, and Kafka.
+
 > Site Reliability Engineer
 >> [Mediascope](https://mediascope.net/),
->> Jul 2023 → Current
+>> Jul 2023 → Sep 2024
 >> * Maintenance of streaming services (Kafka) of the company.
 >> * Improving performance and reliability.
 >> * Monitoring the operation of the system (Grafana).
