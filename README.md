@@ -1,76 +1,28 @@
 ## IGOR SHIROKOV
 
-> SRE / DS / DE / DevOps
+> Lead SRE/DevOps, who know how to use ML and work with big data
 
 ## TECHNOLOGIES
 
-    DevOps  Terraform  Kubernetes  Ansible  Docker  ArgoCD  GitLab  CICD  Prometheus  Grafana  Loki  Jenkins  IaC  Nginx
-
-    Data-Engineering Airflow Kafka Python YandexCloud DWH NoSQL MongoDB HDFS Data-lake Spark-Streaming CatBoost Chart.js
-    
-    Data-Science Data-Analysis PySpark Machine-Learning PostgreSQL PyTorch Linux Deep-Learning Vertica ClickHouse Django
-    
-    Neural-Networks Bootstrap Mathematical-Analysis Keras PowerBI Tableau Statistical-Analysis SQL ML LightGBM MapReduce
+    DevOps                 Terraform              Kubernetes             Ansible                Docker                 
+    ArgoCD                 GitLab                 CICD                   Prometheus             Grafana                
+    Loki                   Jenkins                IaC                    Nginx                  VictoriaMetrics        
+    FluxCD                 ELK                    Algorithms             data structures        Data-Engineering       
+    Airflow                Kafka                  Python                 YandexCloud            DWH                    
+    NoSQL                  MongoDB                HDFS                   Data-lake              Spark-Streaming        
+    CatBoost               Chart.js               Data-Science           Data-Analysis          Machine-Learning       
+    PostgreSQL             PyTorch                Linux                  Deep-Learning          Vertica                
+    ClickHouse             Django                 Neural-Networks        Bootstrap              Mathematical-Analysis  
+    Keras                  PowerBI                Tableau                Statistical-Analysis   SQL                    
+    ML                     LightGBM               MapReduce              
 
 ## INTRO STATEMENT
 
-> I love IT from whole life, even read journals like Hacker in 00’s when a real PC was just a dream. In university my most favorite activities were coding in Fortran, 3D modeling in SOLIDWORKS and doing any type of course work where I can use Mathcad (it resembles me Jupyter Note now).
-
-> I started working in the university department from the 3rd year and that defined my career trajectory for 12 years front. But I wanted much more, and after I took data courses, starting from Data Science to Data Engineering I finally know that working with information, data, finding business insights and analytic is a field where I want to be and where I want to realize myself.
-
-> Currently, I working in data-driven company – Mediascope.
-
-## EXPERIENCE
-
-> DevOps Engineer
->> [Mediascope](https://mediascope.net/),
->> Jul 2024 → Current
->> * Evolve an internal development platform based on Kubernetes clusters.
->> * Bring DevOps practices and the corresponding tooling around them to related teams.
->> * Develop automation that simplifies the team's work.
->> * Expand a common development infrastructure from on-demand dev environments to production.
->> * Deploy and update Kubernetes components, including CloudNativePG, MongoDB, RabbitMQ, and Kafka.
-
-> Site Reliability Engineer
->> [Mediascope](https://mediascope.net/),
->> Jul 2023 → Sep 2024
->> * Maintenance of streaming services (Kafka) of the company.
->> * Improving performance and reliability.
->> * Monitoring the operation of the system (Grafana).
->> * Ensuring data security and Privacy.
->> * Interaction with related departments of the company: with business, developers, system administrators and software developers.
-
-> Associate professor (part-time job)
->> [Moscow Aviation Institute](https://en.mai.ru/), 
->> Jun 2011 → Current
->> * Management of masters in the joint Russian-Chinese program.
->> * Reading lectures and conducting practical classes on the course "Reliability" and "Computer-aided design systems" in Russian and English.
-
-> Data Engineer (part-time job)
->> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
->> Nov 2022 → Dec 2023
->> * Build, test, and maintain database pipeline architectures.
->> * Migrated an existing database from MSSQL to PostgreSQL. Updated and supplemented scripts for loading and processing data (AirFlow, CRON).
->> * Prepare data for predictive and prescriptive modeling.
->> * Wrote procedures and triggers in PostgreSQL.
->> * Together with a team of data scientists and analysts, I conducted data quality analysis and pre-processing.
->> * Set up a pipeline for the commercial dispatch center: data acquisition, cleaning and enrichment, logic calculation, generation of the final JSON for the web service.
-
-> WEB Developer
->> [Atom Power Industry Trade JSC](https://en.apsbt.ru/),
->> Nov 2022 → Jul 2023
->> * Created a site on Django for R&D. Implemented all the logic from the database to dashboards, uploading xml files to the database through site forms, as well as uploading reports designed according to the template with filtering by specified periods from PostgreSQL.
->> * Designed a web service for a commercial dispatch center to obtain operational data on wind turbines.
->> * Build dashboards using Plotly and Chart.js.
->> * Developed the graphic component of UX/UI projects.
-
-> Analyst | Responsible Executor
->> [Moscow Aviation Institute](https://en.mai.ru/),
->> Mar 2016 → Nov 2022
->> * Cost planning by stages and types of work.
->> * Justification of the profitability of R&D in the preparation of tender documentation.
->> * Preparing presentations and defending the results of the work in front of the customer.
->> * Management of a team (5 people).
+> I was fascinated by technology — back in the 2000s, I devoured magazines like Hacker even before owning a real PC. That curiosity led me to university, where I thrived on coding in Fortran, 3D modeling in SOLIDWORKS, and solving complex problems in Mathcad (which, resembles me of Jupyter Notebook).
+> 
+> I began my career in academia, working at a university department from my third year onward — a path that shaped my professional life for the next 12 years. But I always wanted more. When I discovered the world of data—from Data Science to Data Engineering — everything clicked. Working with data, uncovering business insights, and turning raw information (Prometheus metrics included) into actionable intelligence became my true calling.
+> 
+> Today, I’m working at Mediascope, a data-driven company where I get to solve real-world problems through DevOps practices.
 
 ## EDUCATION
 
@@ -83,6 +35,10 @@
 >> * Rocket engines
 
 ## CERTIFICATIONS
+
+> * [Certificate of Completion of the Professional Course "Algorithms and Data Structures". Certificate earned at March 27, 2025](https://disk.yandex.ru/i/4MlJNJwRdKBYCQ)
+    
+    kubernetes  terraform  ansible  docker  argocd  cicd  observability  system-monitoring
 
 > * [Certificate of Completion of the DevOps for Development and Operations Professional Training Course. Certificate earned at May 7, 2024](https://disk.yandex.ru/i/eQzNuePG6qFLqQ)
     
