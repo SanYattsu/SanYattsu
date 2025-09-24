@@ -38,7 +38,7 @@
 
 > * [Certificate of Completion of the Professional Course "Algorithms and Data Structures". Certificate earned at March 27, 2025](https://disk.yandex.ru/i/4MlJNJwRdKBYCQ)
     
-    kubernetes  terraform  ansible  docker  argocd  cicd  observability  system-monitoring
+    python sorting BFS DFS recursion dynamic greedy-algorithms sliding complexity-analysis
 
 > * [Certificate of Completion of the DevOps for Development and Operations Professional Training Course. Certificate earned at May 7, 2024](https://disk.yandex.ru/i/eQzNuePG6qFLqQ)
     
