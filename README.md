@@ -22,7 +22,7 @@
 > 
 > I began my career in academia, working at a university department from my third year onward — a path that shaped my professional life for the next 12 years. But I always wanted more. When I discovered the world of data—from Data Science to Data Engineering — everything clicked. Working with data, uncovering business insights, and turning raw information (Prometheus metrics included) into actionable intelligence became my true calling.
 > 
-> Today, I’m working at Mediascope, a data-driven company where I get to solve real-world problems through DevOps practices.
+> Now leading Site Reliability Engineering at Multifactor. I’m focused on building robust, automated systems to support real-world cybersecurity needs at scale.
 
 ## EDUCATION
 
