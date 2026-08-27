@@ -36,6 +36,10 @@
 
 ## CERTIFICATIONS
 
+> * [Certificate of Completion of the Professional Training Course "Managing Development Teams". Certificate earned at February 19, 2026](https://disk.yandex.ru/i/yldXQDv38onwYA)
+    
+    agile scrum kanban team-leadership kpis  project-management mentoring product-delivery
+
 > * [Certificate of Completion of the Professional Course "Algorithms and Data Structures". Certificate earned at March 27, 2025](https://disk.yandex.ru/i/4MlJNJwRdKBYCQ)
     
     python sorting BFS DFS recursion dynamic greedy-algorithms sliding complexity-analysis
@@ -82,3 +86,4 @@
 > * [kaggle](https://www.kaggle.com/igorshirokov/competitions?tab=active)
 > * [badges](https://www.credly.com/users/igor-shirokov)
 > * [tarot world bot](https://t.me/tarot_world_bot)
+> * [PWA Awasa - Goal Tracking & Life Balance](https://awasa.net)
